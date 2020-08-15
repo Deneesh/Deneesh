@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Deneesh Narayanasamy 
-  [![Deneesh's github stats](https://github-readme-stats.vercel.app/api?username=deneesh)](https://github.com/deneesh/github-readme-stats)
+  [![Deneesh's github stats](https://github-readme-stats.vercel.app/api?username=deneesh)]
 
 
 <!--
